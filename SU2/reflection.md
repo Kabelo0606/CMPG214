@@ -12,4 +12,4 @@ The failure was a form-function mismatch. The CIO's email violated the plain lan
 
 ## What would you change if this were real?
 
-I would mandate a phone call from the CIO to the CEO within 15 minutes of breach confirmation, not an email. Channel richness theory proves ambiguous crisis messages need rich channels for immediate clarification and decision-making authority, preventing cascading failures.
+I would mandate a phone call from the CIO to the CEO within 15 minutes of breach confirmation, not an email. Channel richness theory proves ambiguous crisis messages need rich channels for immediate clarification and decision-making authority, preventing cascading failureS.
