@@ -1,10 +1,15 @@
 # CMPG214 SU2 Individual Reflection
 
-## 1. Principles of SU2
-In this section, I will discuss the fundamental principles that guided my understanding and application of the SU2 framework during the coursework. These principles emphasized the importance of adaptability, strategic decision-making, and the need for a balance between collaboration and competition.
+Student Number: 55647928
 
-## 2. Communication Failures
-Throughout the simulation, several communication failures became apparent. Key moments where miscommunication occurred included team meetings where important updates were not shared adequately, leading to disjointed efforts and duplicated work. Identifying the root causes of these failures is crucial for improving future teamwork.
+## Which SU2 principle was hardest to apply — and why?
 
-## 3. Concrete Changes
-In response to the identified failures, I would implement concrete changes including more structured communication protocols, regular check-ins, and the establishment of a central information hub for all team members to access vital information. These changes aim to enhance clarity and ensure all team members are aligned with objectives and updates.
+The hardest principle to apply was channel richness. RetailCo's crisis required an ambiguous, time-sensitive, emotionally charged message—precisely the scenario demanding a rich channel. Yet the CIO chose email (lean channel), preventing the CEO from asking clarifying questions in real-time. The CEO couldn't understand "SQL injection" or ask "how urgent is this?" A face-to-face or phone call would have allowed immediate dialogue and reduced the 6-hour response delay.
+
+## What failed in the original crisis communication?
+
+The failure was a form-function mismatch. The CIO's email violated the plain language principle by using technical jargon ("SQL injection vector exploit," "lateral movement," "remediation cadence"). The function was unclear—was this informing or requesting a decision? The sequencing failed: external stakeholders learned first through Twitter, before internal leadership understood the situation.
+
+## What would you change if this were real?
+
+I would mandate a phone call from the CIO to the CEO within 15 minutes of breach confirmation, not an email. Channel richness theory proves ambiguous crisis messages need rich channels for immediate clarification and decision-making authority, preventing cascading failures.
