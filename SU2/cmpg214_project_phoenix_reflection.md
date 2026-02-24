@@ -1,3 +1,15 @@
-# Individual Reflection
+# CMPG214 SU2 Individual Reflection - Project Phoenix
 
-In the face of the recent crisis simulation, I learned valuable lessons about the dynamics of crisis communication. First, I discovered the importance of timely information dissemination. Responding quickly and accurately can significantly influence public perception and trust. Secondly, I recognized that clear messaging is crucial. Stakeholders need concise and assertive communication to navigate a crisis effectively. Lastly, I realized the role of empathy in communication. Acknowledging the concerns of the audience helps foster a connection and demonstrates genuine care. Overall, these insights underscore the complexities of crisis management and the need for strategic communication approaches in high-pressure situations.
+**Student Number: 55647928**
+
+**1. Which SU2 principle was hardest to apply — and why?**
+
+The hardest principle to apply was **channel richness**. RetailCo's crisis required an ambiguous, time-sensitive, emotionally charged message—precisely the scenario demanding a rich channel. Yet the CIO chose email (lean channel), preventing the CEO from asking clarifying questions in real-time. The CEO couldn't understand "SQL injection" or ask "how urgent is this?" A face-to-face or phone call would have allowed immediate dialogue and reduced the 6-hour response delay.
+
+**2. What failed in the original crisis communication?**
+
+The failure was a **form-function mismatch**. The CIO's email violated the plain language principle by using technical jargon ("SQL injection vector exploit," "lateral movement," "remediation cadence"). The **function** was unclear—was this informing or requesting a decision? The **sequencing** failed: external stakeholders learned first through Twitter, before internal leadership understood the situation.
+
+**3. What would you change if this were real?**
+
+I would mandate a **phone call from the CIO to the CEO within 15 minutes** of breach confirmation, not an email. Channel richness theory proves ambiguous crisis messages need rich channels for immediate clarification and decision-making authority, preventing cascading failures.
