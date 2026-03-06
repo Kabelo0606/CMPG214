@@ -1,1 +1,1 @@
-
+I'm Kabelo Mbira doing my second year in Bsc in IT.This assignment represents start of my personal brand,the start of finding my self what represent myself and want doesn't.Also  It showcases the application of theoretical concepts into reflecting creativity, technical understanding, and problem-solving abilities.
